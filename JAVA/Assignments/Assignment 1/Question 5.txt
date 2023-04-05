@@ -1,0 +1,2 @@
+5. What are output device?
+Ans.  The output is what we get back from the command we gave the computer through the input device. The monitor is the device that is utilised the most since commands are entered via the keyboard, and the outcome is shown on the monitor after processing.

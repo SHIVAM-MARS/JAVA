@@ -1,0 +1,2 @@
+2. What is RAM?
+Ans. RAM (Random Access Memory) is a volatile. This means that information is kept in RAM while the computer is running, but is powered off. The operating system and other files are frequently loaded from an HDD or SDD into RAM when the computer is restarted.

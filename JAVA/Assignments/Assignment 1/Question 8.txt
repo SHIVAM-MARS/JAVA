@@ -1,0 +1,2 @@
+8. What are Input devices?
+Ans. Through input units or devices like a keyboard, joystick, etc., computers can receive commands in the form of numbers, alphabets, graphics, etc. and respond accordingly. The responses are then output in a language that humans understand or that we have programmed the computer with. These inputs are then analysed and transformed to computer language.

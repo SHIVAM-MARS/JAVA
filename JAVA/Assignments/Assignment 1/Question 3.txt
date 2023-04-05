@@ -1,0 +1,2 @@
+3. Where is data stored in a computer?
+Ans. A computer has internal storage for data called primary memory. Data is also stored on removable media like CDs, pen drives, and other types of secondary storage.

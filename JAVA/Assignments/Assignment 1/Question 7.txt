@@ -1,0 +1,2 @@
+7. Which language is directly understood by the computer without a translation program?
+Ans. Binary Language 
